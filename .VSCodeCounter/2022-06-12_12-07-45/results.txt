@@ -1,0 +1,37 @@
+Date : 2022-06-12 12:07:45
+Directory : c:\xampp\htdocs\sipesuta\staf
+Total : 13 files,  2855 codes, 24 comments, 344 blanks, all 3223 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| PHP      |         13 |      2,855 |         24 |        344 |      3,223 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                     | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                        |         13 |      2,855 |         24 |        344 |      3,223 |
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                 | language | code       | comment    | blank      | total      |
++----------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\xampp\htdocs\sipesuta\staf\aksi_verifkasi.php         | PHP      |         69 |          2 |         15 |         86 |
+| c:\xampp\htdocs\sipesuta\staf\dashboard.php              | PHP      |        242 |          2 |         29 |        273 |
+| c:\xampp\htdocs\sipesuta\staf\kelola_jenis_pengajuan.php | PHP      |        246 |          2 |         26 |        274 |
+| c:\xampp\htdocs\sipesuta\staf\kelola_pengajuan.php       | PHP      |        269 |          2 |         34 |        305 |
+| c:\xampp\htdocs\sipesuta\staf\kelola_staf.php            | PHP      |        279 |          2 |         29 |        310 |
+| c:\xampp\htdocs\sipesuta\staf\kelola_warga.php           | PHP      |        246 |          2 |         27 |        275 |
+| c:\xampp\htdocs\sipesuta\staf\laporan.php                | PHP      |        270 |          2 |         30 |        302 |
+| c:\xampp\htdocs\sipesuta\staf\profil.php                 | PHP      |        212 |          2 |         28 |        242 |
+| c:\xampp\htdocs\sipesuta\staf\proses_ubah.php            | PHP      |         37 |          0 |         15 |         52 |
+| c:\xampp\htdocs\sipesuta\staf\tambah_ubah_jenis.php      | PHP      |        220 |          2 |         23 |        245 |
+| c:\xampp\htdocs\sipesuta\staf\tambah_ubah_staf.php       | PHP      |        246 |          2 |         29 |        277 |
+| c:\xampp\htdocs\sipesuta\staf\tambah_ubah_warga.php      | PHP      |        228 |          2 |         26 |        256 |
+| c:\xampp\htdocs\sipesuta\staf\verifikasi_pengajuan.php   | PHP      |        291 |          2 |         33 |        326 |
+| Total                                                    |          |      2,855 |         24 |        344 |      3,223 |
++----------------------------------------------------------+----------+------------+------------+------------+------------+

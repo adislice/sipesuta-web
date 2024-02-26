@@ -1,0 +1,15 @@
+"filename", "language", "PHP", "comment", "blank", "total"
+"c:\xampp\htdocs\sipesuta\staf\aksi_verifkasi.php", "PHP", 0, 0, -3, -3
+"c:\xampp\htdocs\sipesuta\staf\dashboard.php", "PHP", -16, 0, -19, -35
+"c:\xampp\htdocs\sipesuta\staf\kelola_jenis_pengajuan.php", "PHP", -18, 0, -14, -32
+"c:\xampp\htdocs\sipesuta\staf\kelola_pengajuan.php", "PHP", -18, 0, -21, -39
+"c:\xampp\htdocs\sipesuta\staf\kelola_staf.php", "PHP", -12, 0, -7, -19
+"c:\xampp\htdocs\sipesuta\staf\kelola_warga.php", "PHP", -16, 0, -8, -24
+"c:\xampp\htdocs\sipesuta\staf\laporan.php", "PHP", -4, 0, -17, -21
+"c:\xampp\htdocs\sipesuta\staf\profil.php", "PHP", -4, 0, -14, -18
+"c:\xampp\htdocs\sipesuta\staf\proses_ubah.php", "PHP", 0, 0, -7, -7
+"c:\xampp\htdocs\sipesuta\staf\tambah_ubah_jenis.php", "PHP", -16, 0, -9, -25
+"c:\xampp\htdocs\sipesuta\staf\tambah_ubah_staf.php", "PHP", -13, 0, -11, -24
+"c:\xampp\htdocs\sipesuta\staf\tambah_ubah_warga.php", "PHP", -14, 0, -9, -23
+"c:\xampp\htdocs\sipesuta\staf\verifikasi_pengajuan.php", "PHP", -16, 0, -4, -20
+"Total", "-", -147, 0, -143, -290
