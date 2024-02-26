@@ -1,4 +1,4 @@
 ## Sistem Pemesanan Paket Wisata 
 
-Case Study : Kencana Wisata (Kerja Praktik)
+Project ini dikerjakan untuk memenuhi nilai mata kuliah Kerja Praktik
 
